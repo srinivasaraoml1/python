@@ -1,3 +1,3 @@
-This is stuff I typed into a file.
-It is really cool stuff.
-Lots and lots of fun to have in here.
+I am writing a sample text after truncating
+This is main stream sample text
+In fact whatever I am writing is trash
