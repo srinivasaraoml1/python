@@ -39,3 +39,4 @@ print(dict2)
 print('a' in  dict2)
 
 print(dict2.keys())
+print(type(dict2.keys()))
