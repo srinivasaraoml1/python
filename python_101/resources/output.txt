@@ -1,0 +1,3 @@
+This is a sample data for writing text files.
+The purpose of this line is more or less the same..
+Hi der, this line's purpose is to say that this is the last line...
